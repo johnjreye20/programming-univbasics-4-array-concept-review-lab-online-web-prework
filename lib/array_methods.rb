@@ -1,11 +1,11 @@
-def find_element_index(array, value_to_find)
-  # Add your solution here
+find_element = ["array", "value_to_find"]
+  find_element.index("array")
 end
 
-def find_max_value(array)
-  # Add your solution here
+find_max_value = [1, 6, 7, 98, 125, 255]
+  p find_max_value.max
 end
 
-def find_min_value(array)
-  # Add your solution here
+find_min_value [10, 23, 17 ,18, 21]
+  p find_min_value.min
 end
