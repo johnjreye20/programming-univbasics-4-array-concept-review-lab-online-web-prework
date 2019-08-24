@@ -3,7 +3,7 @@ find_element = ["array", "value_to_find"]
 end
 
 find_max_value = [1, 6, 7, 98, 125, 255]
-  puts digits.max
+  p find_max_value.max
 end
 
 def numbers [10...25]
