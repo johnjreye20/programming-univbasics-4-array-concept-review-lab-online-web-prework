@@ -2,7 +2,7 @@ find_element = ["array", "value_to_find"]
   find_element.index("array")
 end
 
-def digits = [0..9]
+find_max_value = [1, 6, 7, 98, 125, 255]
   puts digits.max
 end
 
